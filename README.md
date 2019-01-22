@@ -1,6 +1,8 @@
 
 rpRestDB forked from https://github.com/alixaxel/ArrestDB
 
+rpRestDB is just an experiment, work in progres, for now dont take it seriosly. 
+
 rpRestDB is a "plug-n-play" RESTful API for SQLite, MySQL and PostgreSQL databases.
 
 rpRestDB provides a REST API that maps directly to your database structure with no configuration.
