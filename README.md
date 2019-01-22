@@ -1,10 +1,11 @@
-#ArrestDB
 
-ArrestDB is a "plug-n-play" RESTful API for SQLite, MySQL and PostgreSQL databases.
+rpRestDB forked from https://github.com/alixaxel/ArrestDB
 
-ArrestDB provides a REST API that maps directly to your database stucture with no configuation.
+rpRestDB is a "plug-n-play" RESTful API for SQLite, MySQL and PostgreSQL databases.
 
-Lets suppose you have set up ArrestDB at `http://api.example.com/` and that your database has a table named `customers`.
+rpRestDB provides a REST API that maps directly to your database structure with no configuration.
+
+Lets suppose you have set up rpRestDB at `http://api.example.com/` and that your database has a table named `customers`.
 To get a list of all the customers in the table you would simply need to do:
 
 	GET http://api.example.com/customers/
